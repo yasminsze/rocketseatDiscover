@@ -26,7 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Página que reúne links para compra de tênis hypados, mas que, adaptando, pode ser usada como cartão digital, catálogo ou página de links.
-Acesse em: https://yasminsze.github.io/rocketseatDiscover/
 
 ## 🌐 Acesse o projeto online
 
